@@ -43,3 +43,5 @@ This document can be copied per Robot Build to be used as a checklist during ass
 - [ ] [Hopper Support Assembly](././Hopper_Support/Hopper_Support_REVDUO_V3-1.pdf)
 
 ---
+
+<!-- TODO: Fix PDF image rendering -->
