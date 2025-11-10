@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Archive & auto-generated artifacts
+*.zip
+*.tmp
+~$*
