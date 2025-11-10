@@ -39,8 +39,7 @@ This document can be copied per Robot Build to be used as a checklist during ass
 ---
 
 # Hopper Support Assembly
-
-- [ ] [Hopper and Hood Template Cutting Guide](Hopper_Support/Hopper_and_Hood_Template_Cutting_Guide_REVDUO_V3-1.pdf)
-- [ ] [Hopper Support Assembly](Hopper_Support/Hopper_Support_REVDUO_V3-1.pdf)
+- [ ] [Hopper and Hood Template Cutting Guide](././Hopper_Support/Hopper_and_Hood_Template_Cutting_Guide_REVDUO_V3-1.pdf)
+- [ ] [Hopper Support Assembly](././Hopper_Support/Hopper_Support_REVDUO_V3-1.pdf)
 
 ---
