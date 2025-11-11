@@ -48,7 +48,7 @@ FTC_COUGARS_PURPLE_25-26/ <- You are here
 - [Hardware/](./Hardware/) - Contains all hardware-related resources, including build instructions for the BOT_REV_DUO_FTC robot, checklists, templates, and documentation of completed assemblies.
   - [BOT_REV_DUO_FTC/](./Hardware/BOT_REV_DUO_FTC/) - Contains build instructions and control system information for the BOT_REV_DUO_FTC robot.
   - [Checklists_Templates/](./Hardware/Checklists_Templates/) - Contains various checklists and templates for hardware assembly and maintenance.
-  - [Completed_Assemblies/](./Hardware/Completed_Assemblies/) - Contains documentation and details of completed robot assemblies, organized by serial number.
+  - [Completed_Assemblies/](./Hardware/Bot_Assemblies) - Contains documentation and details of completed robot assemblies, organized by serial number.
 
 - [Programming/](./Programming/) - Contains all software-related resources, including robot code and programming documentation.
   - [Robot_Code/](./Programming/Robot_Code/) - Contains the robot code for different robot assemblies, organized by serial number.
