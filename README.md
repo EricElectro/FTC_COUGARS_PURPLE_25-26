@@ -55,3 +55,6 @@ FTC_COUGARS_PURPLE_25-26/ <- You are here
 
 - [Season_2025_26/](./Season_2025_26/) - Contains all resources related to the 2025-26 season, including game manuals and team documentation.
   - [Game_Manuals/](./Season_2025_26/Game_Manuals/) - Contains the game manuals for the 2025-26 season, organized by chapters.
+
+
+> *This README.md file was generated to provide an overview of the repository structure and contents for easy navigation and reference.*
